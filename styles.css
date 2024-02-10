@@ -1,0 +1,122 @@
+body{
+    font-family:"Manrope";
+}
+
+
+
+
+.container{
+
+width: 1150px ;
+margin: 0 auto;
+border: 2px solid red;
+padding: 125px;
+
+
+
+
+
+}
+
+h1{
+
+    font-family: Manrope;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px; /* 100% */
+    letter-spacing: -1.8px;
+    padding-right: 194px;
+    padding-bottom: 30px;
+    width: 956px;
+    height: 120px;
+    
+}
+
+.kvartira{
+
+    width: 1150px;
+    height: 500px;
+    background-image: url(../resourses/kvartira.png)
+
+
+}
+
+p{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.6px;
+    color: aliceblue;
+    padding-top: 379px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+    padding-right: 680px ;
+
+}
+
+
+
+h2{
+
+
+    
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.54px;
+  text-transform: uppercase;
+  margin-top: 150px;
+  
+
+
+
+
+}
+
+
+h3{
+
+    width : 1048px;
+   
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1.35px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+    
+
+
+
+
+}
+
+
+a{
+
+display: block;
+border: 1px solid red;
+width: 255px;
+height: 67px;
+text-align: center;
+line-height: 67px;
+text-decoration: none;
+font-size: 20px;
+background-color:
+#AD1818;
+color: aliceblue;
+border-radius: 5px;
+
+}
+
+
+a:hover{
+    color:#AD1818;
+    background-color: aliceblue;
+    
+}
